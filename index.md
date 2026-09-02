@@ -1,26 +1,26 @@
-# [Your Name]
-**Machine Learning Operations (MLOps) Engineer**
+# Moomin Bin Nissar
+** Aspiring ML & MLOps Engineer**
 
-[Email](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.in/in/yourusername) | [Location / Remote]
+[Email](moominbinnissar@gmail.com) | [GitHub](https://github.com/immbn123) | [LinkedIn](https://linkedin.in/in/moomin-bin-nissar) | [New Delhi / Remote]
 
 ---
 
-## 🚀 About Me
-I specialize in building, deploying, and maintaining reliable machine learning systems in production. My focus is on automating CI/CD pipelines for ML, model monitoring, infrastructure management, and optimizing inference performance.
+## About Me
+Data Science and Machine Learning Student holding Dual Diplomas in Programming and Data Science from IIT Madras. I built end-to-end data products-- from web apps to ML pipelines and business analytics--across 4 core program projects. Experienced in moving models into production with clean code, REST APIs, and containerized deployments. Looking for ML and MLOps internship roles.
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-- **ML & Data Frameworks:** PyTorch, TensorFlow, Scikit-learn, MLflow, DVC
-- **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, AWS (S3, ECR, SageMaker), GCP
-- **CI/CD & Automation:** GitHub Actions, GitLab CI, Airflow, Prefect
+- **ML & Data Frameworks:** Scikit-learn, MLflow, DVC
+- **DevOps & Infrastructure:** Docker, GCP
+- **CI/CD & Automation:** GitHub Actions
 - **Monitoring & Observability:** Prometheus, Grafana, Evidently AI, Weights & Biases
-- **Languages & Databases:** Python, Bash, SQL, PostgreSQL, Redis
+- **Languages & Databases:** Python, Bash, PostgreSQL, Redis
 
 ---
 
-## 📌 Featured MLOps Projects
+## Featured MLOps Projects
 
 ### 1. End-to-End Automated Continuous Training & Deployment Pipeline
 *Automated pipeline for retraining and deploying NLP models with zero downtime.*
@@ -58,7 +58,7 @@ I specialize in building, deploying, and maintaining reliable machine learning s
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **B.S. in Computer Science / Data Science** — *[University Name]*, [Year]
 - **AWS Certified Machine Learning – Specialty** — [Year]
